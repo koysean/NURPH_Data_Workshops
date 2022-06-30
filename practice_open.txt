@@ -1,0 +1,5 @@
+Hello, world!
+
+This is our example of reading in a txt file.
+We can read in a file line by line.
+Or we can read the whole thing in one go.
